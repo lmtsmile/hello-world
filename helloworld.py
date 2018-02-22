@@ -8,3 +8,7 @@ def addoper(a,b):
 
 def suboper(a,b):
   return a-b
+
+# added on local terminal
+c = addoper(1,2)
+print c
